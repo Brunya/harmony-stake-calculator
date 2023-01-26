@@ -291,6 +291,11 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
+highcharts@^8.1.0:
+  version "8.2.2"
+  resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-8.2.2.tgz#3eb1a694cff013d3385c3ca8e58e69a27be52cab"
+  integrity sha512-F63TXO7RxsvTcpO/KOubQZWualYpCMyCTuKtoWbt7KCsfQ3Kl7Fr6HEyyJdjkYl+XlnmnKlSRi9d3HjLK9Q0wg==
+
 hmac-drbg@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/hmac-drbg/-/hmac-drbg-1.0.1.tgz#d2745701025a6c775a6c545793ed502fc0c649a1"
@@ -638,10 +643,10 @@ shadow-cljs-jar@1.3.2:
   resolved "https://registry.yarnpkg.com/shadow-cljs-jar/-/shadow-cljs-jar-1.3.2.tgz#97273afe1747b6a2311917c1c88d9e243c81957b"
   integrity sha512-XmeffAZHv8z7451kzeq9oKh8fh278Ak+UIOGGrapyqrFBB773xN8vMQ3O7J7TYLnb9BUwcqadKkmgaq7q6fhZg==
 
-shadow-cljs@^2.8.95:
-  version "2.8.102"
-  resolved "https://registry.yarnpkg.com/shadow-cljs/-/shadow-cljs-2.8.102.tgz#69b2e7aa2336076784921e2b64b5a2b0de06d3d2"
-  integrity sha512-wHBLGMNldgSBtmpfm8wzzp5UnW/5u+LTxVSKhIIlO7S5104/ON7NZPOn66kDEzx/33wrtYSEfeFyK3UrByVqFQ==
+shadow-cljs@2.8.95:
+  version "2.8.95"
+  resolved "https://registry.yarnpkg.com/shadow-cljs/-/shadow-cljs-2.8.95.tgz#e7ce47ea2a12107c8242250f3d7c33fd5566d437"
+  integrity sha512-2y5wgD3Bjbtu9hX6kRf7fzWHDga5BzW9CWU+eTrwddX0B2XbcoIKOiHYQTj6QrFFqYc1vkWGZLyYE9kEYN8N0A==
   dependencies:
     node-libs-browser "^2.0.0"
     readline-sync "^1.4.7"
@@ -713,9 +718,9 @@ tty-browserify@0.0.0:
   integrity sha1-oVe6QC2iTpv5V/mqadUk7tQpAaY=
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
+  integrity sha512-s8ax/CeZdK9R/56Sui0WM6y9OFREJarMRHqLB2EwkovemBxNQ+Bqu8GAsUnVcXKgphb++ghr/B2BZx4mahujPw==
 
 ultron@~1.1.0:
   version "1.1.1"
